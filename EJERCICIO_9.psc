@@ -1,5 +1,5 @@
 //Crear un algoritmo que calcule la definitiva final de una asignatura de la FESC 
-//(debe ingresar primer previo, segundo previo, tercera nota, evaluación final)
+//(debe ingresar primer previo, segundo previo, tercera nota, evaluación final).
 Algoritmo EJERCICIO_9
 	Escribir "Digite la nota de su primer previo"
 	Leer nota1
